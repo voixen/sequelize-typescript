@@ -48,7 +48,8 @@
     "@types/reflect-metadata": "0.0.4",
     "@types/sequelize": "4.27.14",
     "es6-shim": "0.35.3",
-    "glob": "7.1.2"
+    "glob": "7.1.2",
+    "sequelize-cockroachdb": "1.0.3"
   },
   "devDependencies": {
     "@types/chai": "3.4.35",
